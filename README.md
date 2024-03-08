@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nihad Alakbarzade</h1>
 <h3 align="center">A third-year Computer Science and Data Science student.</h3>
 
-- 🔭 I’m currently working on **UsageAndGPS tracking app.**
+- 🔭 I’m currently working on **Bzzy app.**
 
 - 👨‍💻 All of my projects are available at [https://www.nihadae.com](https://www.nihadae.com)
 
